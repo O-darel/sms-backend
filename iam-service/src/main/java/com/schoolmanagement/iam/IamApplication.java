@@ -1,13 +1,11 @@
-package com.schoolmanagement.sms_backend;
+package com.schoolmanagement.iam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SmsBackendApplication {
-
+public class IamApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(SmsBackendApplication.class, args);
+		SpringApplication.run(IamApplication.class, args);
 	}
-
 }

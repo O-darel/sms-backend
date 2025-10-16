@@ -1,10 +1,10 @@
-package com.schoolmanagement.sms_backend;
+package com.schoolmanagement.iam;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SmsBackendApplicationTests {
+class IamApplicationTests {
 
 	@Test
 	void contextLoads() {
